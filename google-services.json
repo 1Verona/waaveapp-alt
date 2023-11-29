@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797509021774",
+    "project_id": "waave-c0e2c",
+    "storage_bucket": "waave-c0e2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797509021774:android:b84f92ca0d217bf4f6931f",
+        "android_client_info": {
+          "package_name": "com.waave.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxbHuq9QKp9iMrmXzF9o4mkPXxB4yF6mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
